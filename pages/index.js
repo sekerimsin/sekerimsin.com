@@ -7,7 +7,7 @@ import Layout, { GradientBackground } from '../components/Layout';
 import ArrowIcon from '../components/ArrowIcon';
 import { getGlobalData } from '../utils/global-data';
 import SEO from '../components/SEO';
-
+<a href="https://www.sekerimsin.com">görüntülü sohbet sitesi</a>
 export default function Index({ posts, globalData }) {
   return (
     <Layout>
@@ -65,3 +65,5 @@ export function getStaticProps() {
 
   return { props: { posts, globalData } };
 }
+
+<a href="https://www.sekerimsin.com">görüntülü sohbet sitesi</a>
